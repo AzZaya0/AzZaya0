@@ -87,3 +87,4 @@
 
 ###
 <img src="https://github-profile-trophy.vercel.app/?AzZaya0=ryo-ma&theme=dracula" />
+[![trophy](https://github-profile-trophy.vercel.app/AzZaya0ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)

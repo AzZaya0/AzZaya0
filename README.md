@@ -86,7 +86,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AzZaya0/AzZaya0/output/snake.svg" alt="Snake animation" />
-
 
 

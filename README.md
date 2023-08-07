@@ -86,6 +86,6 @@
 <img src="https://raw.githubusercontent.com/AzZaya0/AzZaya0/output/snake.svg" alt="Snake animation" />
 
 
-![trophy](https://github-profile-trophy.vercel.app/?AzZaya0=kattni&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/AzZaya0kattni&theme=onedark)
 
 

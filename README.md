@@ -1,3 +1,9 @@
+<br clear="both">
+
+<img align="right" height="200" src="https://instagram.fktm17-1.fna.fbcdn.net/v/t51.2885-19/333164650_193306206644500_3669678868368199252_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fktm17-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=2L_qCjlTjP0AX_VRh1d&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBcSWe1gDtliGv1eBBnIXUzC9gdVepe8OJppGijAjyJqg&oe=64D62CBE&_nc_sid=8b3546"  />
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -11,10 +17,6 @@
 ###
 
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Flutter <br>🎯 Goals: Android App Developer <br>🎲 Fun fact: i'm A Sketch Artist</p>
-
-###
-
-<img align="left" height="100" src="https://instagram.fktm17-1.fna.fbcdn.net/v/t51.2885-19/333164650_193306206644500_3669678868368199252_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fktm17-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=2L_qCjlTjP0AX_VRh1d&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBcSWe1gDtliGv1eBBnIXUzC9gdVepe8OJppGijAjyJqg&oe=64D62CBE&_nc_sid=8b3546"  />
 
 ###
 
@@ -67,15 +69,9 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/AzZaya0/AzZaya0/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/havw5c48wcbx55j4dnwwftj1l">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
@@ -89,6 +85,12 @@
   <a href="https://www.instagram.com/azzaya_timsina01/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###

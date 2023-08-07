@@ -24,6 +24,9 @@
 
 ###
 
+![trophy](https://github-profile-trophy.vercel.app/?username=AzZaya0&theme=onedark)
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
@@ -85,7 +88,5 @@
 
 <img src="https://raw.githubusercontent.com/AzZaya0/AzZaya0/output/snake.svg" alt="Snake animation" />
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AzZaya0&theme=onedark)
 
 

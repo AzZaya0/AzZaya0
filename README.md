@@ -86,3 +86,4 @@
 <img src="https://raw.githubusercontent.com/AzZaya0/AzZaya0/output/snake.svg" alt="Snake animation" />
 
 ###
+https://github-profile-trophy.vercel.app/?AzZaya0=ryo-ma&theme=dracula

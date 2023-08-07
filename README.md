@@ -23,7 +23,6 @@
 <h2 align="left">I code with</h2>
 
 ###
-https://github-profile-trophy.vercel.app/?username=AzZaya0&title=Followers
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AzZaya0&theme=onedark)
 ###

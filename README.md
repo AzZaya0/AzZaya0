@@ -69,12 +69,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="[https://raw.githubusercontent.com/AzZaya0/AzZaya0/output/snake.svg" alt="Snake animation](https://github.com/AzZaya0/AzZaya0/blob/main/.github/workflows/snake.yml)" />
-
-###
-
 <div align="left">
   <a href="in/azzaya-timsina-1982a024b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -89,8 +83,6 @@
 
 ###
 
-<div align="center">
-  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=havw5c48wcbx55j4dnwwftj1l)"  />
-</div>
+<img src="https://raw.githubusercontent.com/AzZaya0/AzZaya0/output/snake.svg" alt="Snake animation" />
 
 ###

@@ -22,7 +22,7 @@
 
 <h2 align="left">I code with</h2>   
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AzZaya0&theme=onedark)
+
 
 ###
 
@@ -65,7 +65,9 @@
   <img src="https://cdn.simpleicons.org/gimp/5C5543" height="40" alt="gimp logo"  />
 </div>
 
-###
+### 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=AzZaya0&theme=onedark)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzZaya0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

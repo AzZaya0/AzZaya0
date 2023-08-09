@@ -20,12 +20,13 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with</h2>   
+
+![trophy](https://github-profile-trophy.vercel.app/?username=AzZaya0&theme=onedark)
 
 ###
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AzZaya0&theme=onedark)
 ###
 
 <div align="left">

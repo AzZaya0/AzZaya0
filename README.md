@@ -23,6 +23,7 @@
 <h2 align="left">I code with</h2>
 
 ###
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AzZaya0)](https://git.io/streak-stats)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AzZaya0&theme=onedark)
 ###

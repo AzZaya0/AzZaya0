@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="200" src="https://instagram.fktm17-1.fna.fbcdn.net/v/t51.2885-19/333164650_193306206644500_3669678868368199252_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fktm17-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=2L_qCjlTjP0AX_VRh1d&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBcSWe1gDtliGv1eBBnIXUzC9gdVepe8OJppGijAjyJqg&oe=64D62CBE&_nc_sid=8b3546"  />
+
 
 ###
 

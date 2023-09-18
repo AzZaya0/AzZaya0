@@ -67,7 +67,6 @@
 </div>
 
 ### 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AzZaya0)]
 
 <div align="center">
 

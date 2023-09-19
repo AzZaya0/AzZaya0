@@ -28,8 +28,7 @@
 
 ###
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AzZaya0&theme=onedark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AzZaya0)](https://git.io/streak-stats)
 ###
 
 <div align="left">

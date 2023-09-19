@@ -66,9 +66,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gimp/5C5543" height="40" alt="gimp logo"  />
 </div>
-####
-[![GitHub Streak](https://streak-stats.demolab.com/AzZaya0)](https://git.io/streak-stats)
-### 
+
 
 <div align="center">
 

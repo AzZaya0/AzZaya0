@@ -24,7 +24,6 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AzZaya0)](https://git.io/streak-stats)
 ###
 
 <h2 align="left">I Use</h2>   
